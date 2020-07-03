@@ -12,14 +12,14 @@ const RESOURCES = {
 "assets/assets/twitter-icon.png": "8e3f84f50e8968fdb29f3a2644c6022e",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "bc3e9b4be64fa7c40b2031eb56a53c80",
+"assets/LICENSE": "53116e3cc00063786165baf6fc00ec20",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "4d757bb50a255d223bec628fe57f4572",
 "/": "4d757bb50a255d223bec628fe57f4572",
-"main.dart.js": "350db822b46928d900249176791ec9cf",
+"main.dart.js": "a0b3a3cdea23834728fa0d8abb210142",
 "manifest.json": "0d1600c2a888fa4f14d6215b200b6351"
 };
 
