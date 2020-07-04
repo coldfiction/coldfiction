@@ -1,8 +1,9 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9c04879a19d6ee31565335a509bf6224",
+  "assets/AssetManifest.json": "bad6de922ee410b7573fbf26264dea04",
 "assets/assets/background_image.png": "fa3d365544c887c850416402ce3c399b",
+"assets/assets/fall-pic.jpg": "e435c2ce94ab7f8d0a6c8a59e800edc3",
 "assets/assets/fb-icon.png": "e64ad7aaa7950dc4f60c5d312189e9ba",
 "assets/assets/insta-icon.png": "005c9b1663a859b8400121d7c87e6a79",
 "assets/assets/linkedin-icon.png": "495f27a18756f95d7603a23b1f942f4b",
@@ -21,7 +22,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "4d757bb50a255d223bec628fe57f4572",
 "/": "4d757bb50a255d223bec628fe57f4572",
-"main.dart.js": "552a454912b7c2a96ee332ababa8b4e2",
+"main.dart.js": "f31be2fa88237908ee0dbae84f782f9d",
 "manifest.json": "0d1600c2a888fa4f14d6215b200b6351"
 };
 
