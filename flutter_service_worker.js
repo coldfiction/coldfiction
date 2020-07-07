@@ -1,10 +1,13 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bad6de922ee410b7573fbf26264dea04",
+  "assets/AssetManifest.json": "bcc12dad7454859271f8dd87e301b3d6",
 "assets/assets/background_image.png": "fa3d365544c887c850416402ce3c399b",
+"assets/assets/coldfiction-written-1.png": "1e66cc18410725abdde6c50108d5b5c6",
+"assets/assets/coldfiction-written.png": "855e3636abb1e278f72817af7bec1a8e",
 "assets/assets/fall-pic.jpg": "e435c2ce94ab7f8d0a6c8a59e800edc3",
 "assets/assets/fb-icon.png": "e64ad7aaa7950dc4f60c5d312189e9ba",
+"assets/assets/holyoke-tree-top.jpg": "7936d6aa0bb09aee55467a6b9d6fe381",
 "assets/assets/insta-icon.png": "005c9b1663a859b8400121d7c87e6a79",
 "assets/assets/linkedin-icon.png": "495f27a18756f95d7603a23b1f942f4b",
 "assets/assets/logo.png": "fc4f1a886050cdb02708e6c01263a2a6",
@@ -22,7 +25,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "4d757bb50a255d223bec628fe57f4572",
 "/": "4d757bb50a255d223bec628fe57f4572",
-"main.dart.js": "f31be2fa88237908ee0dbae84f782f9d",
+"main.dart.js": "fef9e8cb95c69f321ba4f61c9ee8ab86",
 "manifest.json": "0d1600c2a888fa4f14d6215b200b6351"
 };
 
